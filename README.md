@@ -21,4 +21,5 @@
 5. 在projectname目录下执行
 
 	go mod download github.com/astaxie/beego
+	
 	go get -u github.com/astaxie/beego
